@@ -64,7 +64,7 @@ export default defineComponent({
     },
     maxZoom: {
       type: [Number, String],
-      default: 3,
+      default: 6,
     },
     showIndex: {
       type: Boolean,
